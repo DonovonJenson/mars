@@ -10,6 +10,8 @@ An advanced movie database that gives passionate movie fans and studio executive
   - Cliff: Documentation and testing
   - Hubert: TMDB API, server setup, Material UI, and React / Redux.
   - Tim: Recharts and database
+  
+  - Donovon: Authentication via Passport & Login-Restricted React Components
 
 ## Table of Contents
 
